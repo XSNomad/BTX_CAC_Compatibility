@@ -36,7 +36,7 @@
       "isBaseMode": false,
       "DamagePerShot": -13,
       "Instability": -7,
-      "WeaponEffectID": "WeaponEffect-Weapon_AC2_Single",
+      "WeaponEffectID": "WeaponEffect-Weapon_AC2",
       "HasShells": false,
       "AmmoCategory": "AC2"
     }
